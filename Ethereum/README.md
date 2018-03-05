@@ -124,6 +124,10 @@
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
 
+### Token
+
+- [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
