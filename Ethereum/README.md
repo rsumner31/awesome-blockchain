@@ -114,19 +114,10 @@
 - [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH[源码](https://github.com/cosmos)
 - [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端[源码](https://github.com/paritytech/parity)
 
-### Cross Chain
-
-- [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH[源码](https://github.com/cosmos)
-- [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端[源码](https://github.com/paritytech/parity)
-
 ### Token
 
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
-
-### Token
-
-- [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 
 ## License
 
